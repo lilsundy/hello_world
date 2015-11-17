@@ -1,0 +1,14 @@
+div {
+	text-align: center;
+}
+
+div { color: green;
+}
+
+p.capitalize {
+    text-transform: capitalize;
+}
+
+.cupcakes {
+  color: pink;
+}
